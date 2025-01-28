@@ -1,4 +1,4 @@
-# ChatGPT in Excel
+# DeepSeek in Excel
 [Documentation of Excel Addin for DeepSeek](https://www.listendata.com/2025/01/3-ways-to-integrate-deepseek-in-excel.html)
 
 This add-in can generate response in Excel using DeepSeek API. See the features of the add-in below:
